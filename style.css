@@ -5,8 +5,8 @@ body{
 
 .sectiontop {
   
-        border-radius: 15px;
-        padding: 10px;
+      border-radius: 15px;
+      padding: 10px;
       width: 730px;
       height: 20px;
       margin-left:2%;
@@ -19,11 +19,11 @@ body{
 .sectionsel {
     border-radius: 15px;
     padding: 10px;
-  width: 730px;
-  height: 150px;
-  margin-left:2%;
-  margin-right:2%;
-  box-shadow: 5px 0 5px -5px rgba(0,0,0,0.7),
+    width: 730px;
+    height: 150px;
+    margin-left:2%;
+    margin-right:2%;
+    box-shadow: 5px 0 5px -5px rgba(0,0,0,0.7),
   -5px 0 5px -5px rgba(0,0,0,0.7);
 }
 
@@ -34,8 +34,8 @@ aside {
     margin-right:2%;
     margin-top:2%;
     margin-bottom: 2%;
-  width: 200px;
-  height: 150px;
-  box-shadow: 5px 0 5px -5px rgba(0,0,0,0.7),
+    width: 200px;
+    height: 150px;
+    box-shadow: 5px 0 5px -5px rgba(0,0,0,0.7),
   -5px 0 5px -5px rgba(0,0,0,0.7);
 }
